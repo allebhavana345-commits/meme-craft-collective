@@ -34,7 +34,7 @@ const Index = () => {
           <div className="flex items-center justify-center mb-6">
             <Sparkles className="w-12 h-12 text-primary mr-4" />
             <h1 className="text-5xl md:text-7xl font-bold gradient-text">
-              INKEM ANUKOLEDU
+              MemeVerse
             </h1>
           </div>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">

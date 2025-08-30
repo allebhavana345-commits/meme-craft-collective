@@ -15,7 +15,7 @@ const Header = () => {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-r from-primary to-secondary flex items-center justify-center">
               <Sparkles className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold gradient-text">INKEM ANUKOLEDU</span>
+            <span className="text-xl font-bold gradient-text">MemeVerse</span>
           </Link>
 
           <nav className="hidden md:flex items-center space-x-6">
