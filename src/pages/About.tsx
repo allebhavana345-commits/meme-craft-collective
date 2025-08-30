@@ -40,10 +40,10 @@ const About = () => {
             <Sparkles className="w-16 h-16 text-primary mr-4" />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold gradient-text mb-6">
-            About MemeVerse
+            About INKEM ANUKOLEDU
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Welcome to the ultimate destination for meme lovers! MemeVerse is where humor meets community, 
+            Welcome to the ultimate destination for meme lovers! INKEM ANUKOLEDU is where humor meets community, 
             creating an endless stream of laughter and connection through the universal language of memes.
           </p>
         </div>
